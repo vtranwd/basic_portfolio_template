@@ -22,3 +22,8 @@ TODOs
     - images
     - split column layout
     - content
+
+5. Instagram gadget MVP
+    - Build a Google Gadget for Instagram
+    - display newest 1 image from feed
+    - If possible, figure out how to display newest multiple images from feed, as 3 x 2 grid
